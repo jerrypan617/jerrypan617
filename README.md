@@ -1,10 +1,12 @@
 # Xu Pan 👋
 
-Info: Hefei University of Technology | Undergraduate | Computer Science Major  
+Info: 
+- Hefei University of Technology | BS | Computer Science and Technology | 2022.09 ~ 2026.07
+- Xi'an Jiaotong University | PhD | Computer Science and Technology | 2026.09 ~ ????.??
+
 Research Interests: 
-- Large Language Models
-- Reinforcement Learning from Human Feedback (RLHF)
-- Multi-modal Learning
+- Reinforcement Learning from Human Feedback
+- Multi-modal Learning (Diagram)
 
 ## GitHub Stats
 <p align="center">
