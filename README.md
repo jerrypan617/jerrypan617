@@ -6,7 +6,8 @@ Info:
 
 Research Interests: 
 - Reinforcement Learning from Human Feedback
-- Multi-modal Learning (Diagram)
+- Memory Augmentation
+- VLM
 
 ## GitHub Stats
 <p align="center">
